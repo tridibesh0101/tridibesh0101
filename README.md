@@ -1,10 +1,12 @@
 # Tridibesh Karmaker
 
-### Backend or Systems Engineer
+### Backend or systems engineer
 
 Building useful software and sharing the work in public.
 
-[![GitHub](https://img.shields.io/badge/GitHub-tridibesh0101-181717?style=for-the-badge&logo=github)](https://github.com/tridibesh0101)
+● Building and sharing work in public
+
+[GitHub](https://github.com/tridibesh0101)
 
 ---
 
@@ -12,7 +14,9 @@ Building useful software and sharing the work in public.
 
 | Role fit | Public proof | Momentum |
 |----------|--------------|----------|
-| Backend or systems engineer<br>• Python | 5 repositories · 3 stars | 5 contributions · 2 active days |
+| Backend or systems engineer · Python | 5 repositories · 3 stars | 6 contributions · 3 active days |
+
+Building useful software and sharing the work in public.
 
 ---
 
@@ -20,7 +24,7 @@ Building useful software and sharing the work in public.
 
 | Repositories | Stars | Contributions | Followers |
 |--------------|-------|---------------|-----------|
-| **5** | **3** | **5** | **15** |
+| **5** | **3** | **6** | **15** |
 
 ---
 
@@ -28,25 +32,26 @@ Building useful software and sharing the work in public.
 
 ### [awesome-raspberry-pi](https://github.com/tridibesh0101/awesome-raspberry-pi)
 A curated list of awesome Raspberry Pi tools, projects, images and resources  
-`Shell` · ⭐ 1
+`Shell` · ⭐ 1 · 🍴 0
 
 ### [sdk-for-python](https://github.com/tridibesh0101/sdk-for-python)
 [READ-ONLY] Official Appwrite Python SDK  
-`Python`
+`Python` · ⭐ 0
 
 ### [Guess_The_Number_Game](https://github.com/tridibesh0101/Guess_The_Number_Game)
-A selected public project  
+A selected public project.  
 `Python` · ⭐ 3
 
 ### [proxySpeedTestApp](https://github.com/tridibesh0101/proxySpeedTestApp)
 kivy, kivymd App  
-`Python`
+`Python` · ⭐ 0
 
 ---
 
 ## Technical toolkit
 
-**Python** — 100% of public code
+**Python**  
+100% of public code
 
 ---
 
@@ -55,3 +60,7 @@ kivy, kivymd App
 Open to thoughtful teams, ambitious products, and useful engineering work.
 
 → [GitHub](https://github.com/tridibesh0101)
+
+---
+
+*Tridibesh Karmaker · recruiter-ready profile*
